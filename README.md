@@ -5,5 +5,5 @@ This project is a Python implementation of a Multi-Layer Neural Network from Scr
 
 ### Technologies Used:
 Python 3 <br />
+Numpy    
 Tikinter 
-### Dataset Link
